@@ -47,17 +47,25 @@ Planning a trip means juggling flights, accommodation, budgets, activities, and 
 
 ### 2.2 Ideation Boards
 
-![Idea exploration funnel](pictures_READme/idea_exploration.jpg)
-*Shows the narrowing path from the Lifestyle track down to TripSync, including the two intermediate ideas that were dropped along the way and why.*
+<p align="center">
+  <img src="ideation-04-idea-exploration.svg" alt="Idea exploration funnel" width="650" />
+</p>
+<p><em>Shows the narrowing path from the Lifestyle track down to TripSync, including the two intermediate ideas that were dropped along the way and why.</em></p>
 
-![Problem tree](pictures_READme/problem_tree.jpg)
-*Breaks down why group travel planning is hard - three root causes (budgets, tastes, sudden changes) and the consequences each one creates.*
+<p align="center">
+  <img src="ideation-01-problem-tree.svg" alt="Problem tree" width="650" />
+</p>
+<p><em>Breaks down why group travel planning is hard - three root causes (budgets, tastes, sudden changes) and the consequences each one creates.</em></p>
 
-![Solution mindmap](pictures_READme/solution_mindmap.jpg)
-*TripSync's five functional pillars: group sync, budget, maps, AI itinerary generation, and disruption handling.*
+<p align="center">
+  <img src="ideation-02-solution-mindmap.svg" alt="Solution mindmap" width="650" />
+</p>
+<p><em>TripSync's five functional pillars: group sync, budget, maps, AI itinerary generation, and disruption handling.</em></p>
 
-![User flow](pictures_READme/user_flow.jpg)
-*The end-to-end loop a traveler moves through: plan the trip, get an AI itinerary, travel, hit a disruption, and get an automatic replan.*
+<p align="center">
+  <img src="ideation-03-user-flow.svg" alt="User flow" width="650" />
+</p>
+<p><em>The end-to-end loop a traveler moves through: plan the trip, get an AI itinerary, travel, hit a disruption, and get an automatic replan.</em></p>
 
 ### 2.3 Mentor Consultation
 
