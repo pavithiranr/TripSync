@@ -47,7 +47,7 @@ Planning a trip means juggling flights, accommodation, budgets, activities, and 
 
 ### 2.2 Ideation Boards
 
-![Idea exploration funnel](pictures_READme/idea_exploration.png)
+![Idea exploration funnel](pictures_READme/idea_exploration.jpg)
 *Shows the narrowing path from the Lifestyle track down to TripSync, including the two intermediate ideas that were dropped along the way and why.*
 
 ![Problem tree](ideation-01-problem-tree.svg)
