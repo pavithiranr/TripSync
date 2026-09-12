@@ -71,9 +71,9 @@ Planning a trip means juggling flights, accommodation, budgets, activities, and 
 
 | Date | Mentor | Feedback Received | What Was Changed |
 |---|---|---|---|
-| [ ] | [ ] | [ ] | [ ] |
+| 8 September 2026 | Teng Wei Herr | He recommended researching the market further, exploring indie apps, and developing a distinctive feature that most existing apps do not offer. He also shared suggestions for managing API rate limits, using the OpenCode API as an example. | Surveyed indie apps such as Trovelo and MyTripPlanner. Adapted the home screen based on these references and refined the UI and backend logic. |
 
-*To be completed after mentor session(s) during the hackathon.*
+*Mentorship session completed on 8 September 2026.*
 
 ---
 
