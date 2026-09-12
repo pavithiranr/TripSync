@@ -1,13 +1,34 @@
+<div align="center">
+
 # TripSync
-Adaptive group travel planner that auto-replans your itinerary when things change mid-trip. Built for Codenection 2026.
 
+### Adaptive group travel planning for changing plans
 
-# TripSync by Obsidian
+TripSync keeps a shared itinerary useful when real life gets in the way. It combines group preferences and budgets, then automatically replans around disruptions such as delays, bad weather, or closures.
 
-- **Team members:** Pavithiran, Krishnaraj, Rakesh
-- **Problem Statement:** Lifestyle Track - Planning an Escape (Travel Planner)
-- **Video Presentation:** [Unlisted YouTube Link]
-- **Presentation Slides:** [Public Link]
+**Built for Codenection 2026 · Lifestyle Track: Planning an Escape**
+
+Video presentation: link to be added · Presentation slides: link to be added
+
+</div>
+
+## At A Glance
+
+| | |
+|---|---|
+| **Team** | Pavithiran · Krishnaraj · Rakesh |
+| **Core idea** | A living itinerary that adapts when plans change |
+| **Frontend** | Flutter |
+| **Backend** | Firebase / Firestore |
+| **AI layer** | Gemini via Vertex AI |
+
+## Contents
+
+- [Project Overview](#1-project-overview)
+- [Ideation & Process](#2-ideation--process)
+- [Design & Prototype](#3-design--prototype)
+- [What Makes It Different](#4-what-makes-it-different)
+- [Technical Architecture & Feasibility](#5-technical-architecture--feasibility)
 
 ---
 
@@ -15,7 +36,7 @@ Adaptive group travel planner that auto-replans your itinerary when things chang
 
 ### The Problem
 
-Planning a trip means juggling flights, accommodation, budgets, activities, and everyone's individual preferences - usually scattered across five different apps and a group chat. Most existing travel apps solve only one piece of this: they handle bookings, or budgeting, or itineraries, but not all three together. Group trips make it worse, since aligning schedules, budgets, and preferences across multiple people is genuinely difficult by hand. And when something changes mid-trip - a delayed flight, bad weather, a closed venue - existing platforms offer little real help adjusting the plan.
+Planning a trip means juggling flights, accommodation, budgets, activities, and everyone's individual preferences - usually scattered across five different apps and a group chat. Most existing travel apps solve only one piece of this: bookings, budgeting, or itineraries, but not all three together. Group trips make it worse, since aligning schedules, budgets, and preferences across multiple people is difficult to do by hand. When something changes mid-trip - a delayed flight, bad weather, or a closed venue - travelers are usually left to rebuild the plan themselves.
 
 **Stakeholders:** young adults and university students traveling in groups, who typically have limited planning experience, mismatched budgets, and shared logistics (transport, accommodation) that need to stay coordinated.
 
@@ -63,7 +84,7 @@ Planning a trip means juggling flights, accommodation, budgets, activities, and 
 <p><em>TripSync's five functional pillars: group sync, budget, maps, AI itinerary generation, and disruption handling.</em></p>
 
 <p align="center">
-  <img src="pictures_READme/user_flow" alt="User flow" width="650" />
+  <img src="pictures_READme/user_flow.jpg" alt="User flow" width="650" />
 </p>
 <p><em>The end-to-end loop a traveler moves through: plan the trip, get an AI itinerary, travel, hit a disruption, and get an automatic replan.</em></p>
 
@@ -79,9 +100,9 @@ Planning a trip means juggling flights, accommodation, budgets, activities, and 
 
 ## 3. Design & Prototype
 
-**UI Prototype:** [Public Figma Link]
+**UI Prototype:** public Figma link to be added
 
-Key screens (see full spec for all 9):
+Key screens:
 
 | Screen | Interaction |
 |---|---|
@@ -126,4 +147,4 @@ Key screens (see full spec for all 9):
 - Live multi-user accounts with real-time sync (simulated with mock traveler profiles instead)
 - Payment processing
 
-Keeping the disruption trigger mocked and the map/routing APIs as stretch goals keeps the core "plan → disrupt → replan" loop achievable solo within the hackathon timeframe.
+Keeping the disruption trigger mocked and the map/routing APIs as stretch goals keeps the core "plan -> disrupt -> replan" loop achievable within the hackathon timeframe.
