@@ -100,7 +100,7 @@ Planning a trip means juggling flights, accommodation, budgets, activities, and 
 
 ## 3. Design & Prototype
 
-**UI Prototype:** public Figma link to be added
+**UI Prototype:** [View the TripSync Figma prototype](https://www.figma.com/design/hmZkMbn6IgE3zdIgfJZqzM/OBSIDIAN-Codenection-2026?node-id=0-1&t=2rUZRNMJZNkDgIT8-1)
 
 Key screens:
 
