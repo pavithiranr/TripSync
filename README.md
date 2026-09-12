@@ -50,13 +50,13 @@ Planning a trip means juggling flights, accommodation, budgets, activities, and 
 ![Idea exploration funnel](pictures_READme/idea_exploration.jpg)
 *Shows the narrowing path from the Lifestyle track down to TripSync, including the two intermediate ideas that were dropped along the way and why.*
 
-![Problem tree](ideation-01-problem-tree.svg)
+![Problem tree](pictures_READme/problem_tree.jpg)
 *Breaks down why group travel planning is hard - three root causes (budgets, tastes, sudden changes) and the consequences each one creates.*
 
-![Solution mindmap](ideation-02-solution-mindmap.svg)
+![Solution mindmap](pictures_READme/solution_mindmap.jpg)
 *TripSync's five functional pillars: group sync, budget, maps, AI itinerary generation, and disruption handling.*
 
-![User flow](ideation-03-user-flow.svg)
+![User flow](pictures_READme/user_flow.jpg)
 *The end-to-end loop a traveler moves through: plan the trip, get an AI itinerary, travel, hit a disruption, and get an automatic replan.*
 
 ### 2.3 Mentor Consultation
