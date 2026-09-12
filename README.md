@@ -4,10 +4,10 @@ Adaptive group travel planner that auto-replans your itinerary when things chang
 [tripsync-submission.md](https://github.com/user-attachments/files/32145343/tripsync-submission.md)
 # TripSync by Obsidian
 
-**Team members:** Pavithiran, Krishnaraj, Rakesh
-**Problem Statement:** Lifestyle Track — Planning an Escape (Travel Planner)
-**Video Presentation:** [Unlisted YouTube Link]
-**Presentation Slides:** [Public Link]
+- **Team members:** Pavithiran, Krishnaraj, Rakesh
+- **Problem Statement:** Lifestyle Track — Planning an Escape (Travel Planner)
+- **Video Presentation:** [Unlisted YouTube Link]
+- **Presentation Slides:** [Public Link]
 
 ---
 
