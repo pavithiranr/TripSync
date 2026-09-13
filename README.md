@@ -8,7 +8,7 @@ TripSync keeps a shared itinerary useful when real life gets in the way. It comb
 
 **Built for Codenection 2026 · Lifestyle Track: Planning an Escape**
 
-Video presentation: [YouTube presentation](https://youtu.be/bCpXs5Ah4mw) · Presentation slides: [Canva slides](https://canva.link/ohxw8243ilegy0o)
+Video presentation: [YouTube presentation](https://youtu.be/bCpXs5Ah4mw) · Presentation slides: [Canva slides](https://canva.link/ohxw8243ilegy0o) · Figma prototype link : [Figma Prototype](https://www.figma.com/design/hmZkMbn6IgE3zdIgfJZqzM/OBSIDIAN-Codenection-2026?node-id=0-1&t=2rUZRNMJZNkDgIT8-1)
 
 </div>
 
